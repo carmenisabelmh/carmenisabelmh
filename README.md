@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Carmen Isabel
 
-<!--
-**carmenisabelmh/carmenisabelmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring astrophysicist passionate about high-redshift galaxy evolution, space ethics, and sustainability. Currently completing my undergraduate degree at QUT and preparing for Honours and PhD research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Research Interests
+- Galaxy evolution at high redshift  
+- Supermassive black holes  
+- Space policy and sustainability  
+- Magnetohydrodynamics
+
+---
+
+## 📚 Education
+**Bachelor of Science (Physics)** – Queensland University of Technology  
+• Focus: Astrophysics & Cosmology  
+---
+
+## 🧪 Projects & Research
+- **[SMBH Literature Review](https://github.com/carmenisabelmh/Undergrad-Astrophysics-Research-Course-Work-Paper-)**  
+- **[ASTRA Policy Paper – IAC-25](https://github.com/carmenisabelmh/astra-space-policy-paper)**  
+- **[Lithium-Ion Battery Research – VRES](https://github.com/carmenisabelmh/lithium-ion-vres-qut)**  
+
+---
+
+## 📄 [View My CV](./CarmenMartinezHarris_CV.pdf)
+---
+
+🌌 Always open to collaboration or discussion!
