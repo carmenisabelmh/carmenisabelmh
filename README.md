@@ -24,7 +24,8 @@ Aspiring astrophysicist passionate about high-redshift galaxy evolution, space e
 
 ---
 
-## 📄 [View My CV](./Carmen_Martinez-Harris_CV.pdf)
+## 📄 [Download My CV](https://github.com/carmenisabelmh/carmenisabelmh/raw/main/Carmen_Martinez_Harris_CV.pdf)
+
 ---
 
 🌌 Always open to collaboration or discussion!
