@@ -1,24 +1,23 @@
-# 👋 Hi, I'm Carmen Isabel
+# Hello everyone! I'm Carmen Isabel
 
-Aspiring astrophysicist passionate about high-redshift galaxy evolution, space ethics, and sustainability. Currently completing my undergraduate degree at QUT and preparing for Honours and PhD research.
+Aspiring astrophysicist passionate about high-redshift galaxy evolution, space ethics, and sustainability. I am about to complete my undergraduate degree at QUT and preparing for MPhil and PhD research.
 
 ---
 
-## 🔭 Research Interests
+## What am I passionate about?
 - Galaxy evolution at high redshift  
 - Supermassive black holes  
-- Space policy and sustainability  
-- Magnetohydrodynamics
+- Space policy and sustainability
+- Science Communication! 
 
 ---
 
-## 📚 Education
+## Education
 **Bachelor of Science (Physics)** – Queensland University of Technology  
 • Focus: Astrophysics & Cosmology  
 ---
 
-## 🧪 Projects & Research
-- **[SMBH Literature Review](https://github.com/carmenisabelmh/Undergrad-Astrophysics-Research-Course-Work-Paper-)**  
+## Published Research and Work 
 - **[ASTRA Policy Paper – IAC-25](https://github.com/carmenisabelmh/astra-space-policy-paper)**  
 - **[Lithium-Ion Battery Research – VRES](https://github.com/carmenisabelmh/lithium-ion-vres-qut)**  
 
@@ -28,4 +27,4 @@ Aspiring astrophysicist passionate about high-redshift galaxy evolution, space e
 
 ---
 
-🌌 Always open to collaboration or discussion!
+I am always open to collaboration or discussion!
